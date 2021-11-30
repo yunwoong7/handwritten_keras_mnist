@@ -1,8 +1,14 @@
----
-typora-root-url: ./
----
+<h2 align="center">
+  Handwritten Keras MNIST
+</h2>
 
-# handwritten_keras_mnist
+<div align="center">
+  <img src="https://img.shields.io/badge/python-v3.8-blue.svg"/>
+  <img src="https://img.shields.io/badge/keras-v2.4.3-blue.svg"/>
+</div>
+
+
+
 ### 1. Keras로 MNIST 모델생성
 
 ```python
